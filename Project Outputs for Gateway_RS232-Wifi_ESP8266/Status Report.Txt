@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Gateway_RS232-Wifi_ESP8266.PrjPcb]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GTO]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GTP]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GTS]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GTL]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GBL]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GBS]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GBP]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GBO]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GM1]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GM7]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GM13]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GM15]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GKO]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GPT]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.GPB]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.RUL]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.EXTREP]
+   Generated File[PCB_Gateway_RS232-Wifi_ESP8266.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 1:34:28 PM On 12/7/2018

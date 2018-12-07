@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\AD\Prj\Gateway_RS232-Wifi_ESP8266\PCB_Gateway_RS232-Wifi_ESP8266.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
